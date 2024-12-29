@@ -1,0 +1,4 @@
+g++ -Wall main.cpp Wizard.cpp Witch.cpp WarHammer.cpp StrengthPotion.cpp Shop.cpp Potion.cpp ManaPotion.cpp Location.cpp Knight.cpp Item.cpp HealPotion.cpp Guild.cpp GreatSword.cpp FireResistancePotion.cpp Enemy.cpp Dragon.cpp Character.cpp Beast.cpp Arena.cpp Weapon.cpp -o main
+
+// tests
+g++ -Wall UnitTest.cpp  Witch.cpp WarHammer.cpp StrengthPotion.cpp Shop.cpp Potion.cpp ManaPotion.cpp Location.cpp Knight.cpp Item.cpp HealPotion.cpp Guild.cpp GreatSword.cpp FireResistancePotion.cpp Enemy.cpp Dragon.cpp Character.cpp Beast.cpp Arena.cpp Weapon.cpp Wizard.cpp -o test
