@@ -6,7 +6,7 @@ This was a terminal based game I made within a group of 3 using Object Oriented 
 
 # How to Run Game
 To run the game complete the following steps: <br>
-    - clone this repository: `git clone https://github.com/elihinton/Terminal-Based-Game.git`<br>
+    <div style="text-indent: 20px;">- clone this repository: `git clone https://github.com/elihinton/Terminal-Based-Game.git`<br>
     - move to the project directory: `cd your-repository-name`<br>
     - run make command: `make`<br>
     - to test functionalities then run: `./test`<br>
